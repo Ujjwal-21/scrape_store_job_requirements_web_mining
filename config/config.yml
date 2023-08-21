@@ -1,0 +1,4 @@
+# set chrome driver path here
+chromeDriverPath: "C:\\WebDrivers\\chromedriver_win32\\chromedriver.exe"
+# set mongoDb url here
+mongoDbURL: "mongodb://localhost:27017/"
